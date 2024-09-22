@@ -40,8 +40,26 @@
 - **Rationale**: Explain why each tool was selected for its specific application.
 
 ### 2.3 Total use of AI Tools
-- **Participan 1-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 2-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 3-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
+- **Participan 1-- 0% usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
+
+  
+- **Participan 2-- 60%usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
+  When applied: ChatGPT was used in the editing and correction of the code from API libraries
+
+  How Applied: The code was mainly used in the creation and fixing of troubleshooting and re-writing code to fix major mistakes within building the tts features
+
+Rationale: ChatGPT has been used in the past to provide detailed code that works with its intended purpose
+
+  
+
+
+- **Participan 3-- 70%usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
+
+  When applied: ChatGPT was used in the editing and correction of the code from API libraries and front-end code
+
+  How Applied: The code was mainly used in building the front-end  to fix major mistakes within building the tts features
+
+Rationale: ChatGPT has been used in the past to provide detailed code that works with its intended purpose
+
 - **Participan 4-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
 - **Participan 5-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
